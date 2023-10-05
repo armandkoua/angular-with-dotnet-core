@@ -1,0 +1,12 @@
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\bin\Debug\net7.0\Interfaces.deps.json
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\bin\Debug\net7.0\Interfaces.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\bin\Debug\net7.0\Interfaces.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\Interfaces.csproj.AssemblyReference.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfoInputs.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\Interfaces.AssemblyInfo.cs
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\Interfaces.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\refint\Interfaces.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\Interfaces.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Interfaces\obj\Debug\net7.0\ref\Interfaces.dll

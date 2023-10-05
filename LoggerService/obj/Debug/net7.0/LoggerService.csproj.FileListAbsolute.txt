@@ -1,0 +1,15 @@
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\bin\Debug\net7.0\LoggerService.deps.json
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\bin\Debug\net7.0\LoggerService.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\bin\Debug\net7.0\LoggerService.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\bin\Debug\net7.0\Interfaces.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\bin\Debug\net7.0\Interfaces.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfo.cs
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CoreCompileInputs.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.csproj.CopyComplete
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\LoggerService.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
