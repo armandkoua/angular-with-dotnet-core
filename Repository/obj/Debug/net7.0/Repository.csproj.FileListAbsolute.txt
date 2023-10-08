@@ -1,0 +1,16 @@
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\bin\Debug\net7.0\Repository.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\bin\Debug\net7.0\Repository.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\bin\Debug\net7.0\Entities.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\bin\Debug\net7.0\Entities.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.sourcelink.json
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\Repository.pdb
+C:\projets-devs\dot-net-core\angular-with-dotnet-core\Repository\obj\Debug\net7.0\ref\Repository.dll
